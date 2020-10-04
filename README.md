@@ -7,5 +7,5 @@ Note this is the older code from Valkaari.com that was written in Python.  I did
 The source for Uniform-Resizer is located here.
 https://github.com/Valkaari/Uniform-resizer
 
-The orgignal version of Py_Resize came from Valkaari's website
+The original version of Py_Resize came from Valkaari's website
 https://www.valkaari.com/?cat=30
